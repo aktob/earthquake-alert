@@ -1,0 +1,2 @@
+# earthquake-alert
+detect earthquakes 
