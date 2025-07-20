@@ -18,7 +18,7 @@ Displays the epicenter of the earthquake on a map.
 
 Draws a radius circle around the center based on the magnitude and impact range of the earthquake.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Flutter (UI + App Logic)
 
 Firebase (Realtime Database)
@@ -28,7 +28,7 @@ External Hardware (with sensors for vibration/motion)
 Google Maps Flutter package for visualization
 
 
-🚀 How It Works
+## 🚀 How It Works
 The external hardware monitors seismic activity using sensors.
 
 Upon detecting a potential earthquake, it sends data (location, magnitude) to Firebase.
